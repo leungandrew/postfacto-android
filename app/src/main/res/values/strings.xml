@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostfactoAndroid</string>
+    <string name="enter_your_retro_id">Enter your Retro ID</string>
+    <string name="enter_retro">Enter Retro</string>
+    <string name="retro_column_hint_happy">I\'m glad that...</string>
+    <string name="retro_column_hint_meh">I\'m wondering about...</string>
+    <string name="retro_column_hint_sad">It wasn\'t so great that...</string>
+</resources>
